@@ -1,0 +1,6 @@
+framework module Pods_OneTechFirst {
+  umbrella header "Pods-OneTechFirst-umbrella.h"
+
+  export *
+  module * { export * }
+}
